@@ -116,6 +116,6 @@ THEME = {
 
 ---
 
-# Need a logo, dark/light toggle system, or Python package version with `setup.py`?
+### Need a logo, dark/light toggle system, or Python package version with `setup.py`?
 
-# Just say the word — I can prep it like it’s ready for PyPI 🧁
+### Just say the word — I can prep it like it’s ready for PyPI 🧁
